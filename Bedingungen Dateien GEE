@@ -1,0 +1,8 @@
+Bedingungen Dateien: 
+1) Zeitraum (Time of Interest): 01-02-2017 bis 31-12-2025 (DD-MM-YYYY)
+2) Sentinel-2 (atmosphärisch korrigiert, also L2A) 
+3) nur relevante Kanäle bzw relevante Vegetationsindizes
+3.1) SAVI, NDMI, NDVI (B4, B8, B11)
+3.2) B4, B5 (red edge), B6, B7, B11 (möglicherweise RGB)
+4) Definierte AOI (orthogonales Polygon) - Krib Gare Forest, Tunesien
+5) Wolkenbedeckung unter 30%
